@@ -1,11 +1,12 @@
 # Agente.IA Site
+Site oficial da Agente.IA desenvolvido para publicação via GitHub Pages.
 
-Este é o site estático da **Agente.IA** pronto para publicação via GitHub Pages.
+## Publicar no GitHub Pages
+1. Vá em Settings → Pages.
+2. Configure *Source*: deploy from a branch → main → /(root)
+3. Clique Save.
+4. Acesse: https://pacificocamargo.github.io/agente-ia-site
 
-## Publicar
-1. No GitHub, crie o repositório `agente-ia-site` (público).
-2. Clique em **Add File** → **Upload files**
-3. Arraste e solte todo o conteúdo desta pasta.
-4. Garanta que `index.html` está na raiz.
-5. Vá em **Settings → Pages → Deploy from a branch → main (root)**.
-6. Acesse: https://seuusuario.github.io/agente-ia-site
+## Links rápidos
+- WhatsApp: https://wa.me/5515996238583
+- Agendamento: https://agendaflowpro.com.br//zenithai
